@@ -1,0 +1,148 @@
+{
+    "education": [
+        {
+            "year": "2022",
+            "month": "June",
+            "title": "Aligarh Muslim University",
+            "link": "https://amu.ac.in",
+            "icon": "https://amu.ac.in/favicon.ico",
+            "domain": "amu.ac.in",
+            "description": "Master of Computer Application<br>8.6 CGPA"
+        },
+        {
+            "year": "2019",
+            "month": "May",
+            "title": "Aligarh Muslim University",
+            "link": "https://amu.ac.in",
+            "icon": "https://amu.ac.in/favicon.ico",
+            "domain": "amu.ac.in",
+            "description": "Bachelor of Computer Application<br>8.1 CGPA"
+        },
+        {
+            "year": "2017",
+            "month": "April",
+            "title": "Aligarh Muslim University",
+            "link": "https://amu.ac.in",
+            "icon": "https://amu.ac.in/favicon.ico",
+            "domain": "amu.ac.in",
+            "description": "Senior Secondary School<br>76.4%"
+        },
+        {
+            "year": "2015",
+            "month": "June",
+            "title": "CBSE Delhi",
+            "link": "https://cbseacademic.nic.in/",
+            "icon": "https://cbseacademic.nic.in/favicon.ico",
+            "domain": "cbseacademic.nic.in",
+            "description": "Secondary School<br>10 CGPA"
+        }
+    ],
+    "certifications": [
+        {
+            "year": "2024",
+            "month": "June",
+            "title": "Udemy<br>The Complete JavaScript Course 2024: From Zero to Expert",
+            "link": "#",
+            "icon": "https://www.google.com/s2/favicons?domain=udemy.com",
+            "domain": "udemy.com",
+            "description": "Certification in JavaScript<br>Learned advanced JS concepts and frameworks."
+        },
+        {
+            "year": "2024",
+            "month": "February",
+            "title": "Google Cloud<br>Google Cloud Study Jams Labs Certificate",
+            "link": "#",
+            "icon": "https://cloud.google.com/favicon.ico",
+            "domain": "cloud.google.com",
+            "description": "Cloud Computing Certification<br>Gained hands-on experience with GCP."
+        },
+        {
+            "year": "2024",
+            "month": "February",
+            "title": "Udemy<br>100 Days of Code: The Complete Python Pro Bootcamp",
+            "link": "#",
+            "icon": "https://www.google.com/s2/favicons?domain=udemy.com",
+            "domain": "udemy.com",
+            "description": "Python Programming Certification<br>Mastered Python for various applications."
+        },
+        {
+            "year": "2024",
+            "month": "January",
+            "title": "Udemy<br>The Complete 2024 Web Development Bootcamp",
+            "link": "#",
+            "icon": "https://www.google.com/s2/favicons?domain=udemy.com",
+            "domain": "udemy.com",
+            "description": "Web Development Certification<br>Learned full-stack web development."
+        },
+        {
+            "year": "2023",
+            "month": "January",
+            "title": "Coursera<br>Geodata Processing Using Python",
+            "link": "#",
+            "icon": "https://coursera.org/favicon.ico",
+            "domain": "coursera.org",
+            "description": "Geodata Processing Certification<br>Applied Python in geospatial analysis."
+        }
+    ],
+    "workshops": [
+        {
+            "year": "2023",
+            "month": "November",
+            "title": "Introduction to Research Practices"
+        },
+        {
+            "year": "2023",
+            "month": "November",
+            "title": "Cyber Security: Pen Testing Methodology"
+        },
+        {
+            "year": "2023",
+            "month": "October",
+            "title": "CS360: Bits to Bots"
+        }
+    ],
+    "skills": [
+        {
+            "year": "2023",
+            "month": "December",
+            "title": "JavaScript (ReactJs)",
+            "link": "https://reactjs.org/",
+            "icon": "https://reactjs.org/favicon.ico",
+            "description": "Learned React for building dynamic user interfaces."
+        },
+        {
+            "year": "2023",
+            "month": "November",
+            "title": "Docker",
+            "link": "https://www.docker.com/",
+            "icon": "https://www.docker.com/favicon.ico",
+            "description": "Mastered containerization for deploying applications."
+        }
+    ],
+    "hackathons": [
+        {
+            "year": "2024",
+            "month": "March",
+            "title": "Dummy Hackathon",
+            "details": "Developed a scalable web application."
+        }
+    ],
+    "recommendations": [
+        {
+            "year": "2024",
+            "month": "March",
+            "name": "John Doe",
+            "position": "Senior Developer at TechCorp",
+            "link": "https://linkedin.com/in/johndoe",
+            "recommendation": "An exceptional developer with strong problem-solving skills."
+        },
+        {
+            "year": "2024",
+            "month": "January",
+            "name": "Jane Smith",
+            "position": "Project Manager at InnovateX",
+            "link": "https://jane-smith.com",
+            "recommendation": "Consistently delivers high-quality work and leads the team effectively."
+        }
+    ]
+}
